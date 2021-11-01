@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168798485636",
+    "project_id": "merakhata-18a79",
+    "storage_bucket": "merakhata-18a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168798485636:android:3c8319aac7dafdd4fe96d1",
+        "android_client_info": {
+          "package_name": "com.my.khataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168798485636-n2sjk1a4cmb67aksvma084944i5k62o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.khataapp",
+            "certificate_hash": "1f7012411fc589601bbd16fbe6296468f37c784b"
+          }
+        },
+        {
+          "client_id": "168798485636-bo9hnmm7151vt4rqfjsiar7v220m05b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbbINKykK931ufd1Fe-mTSUXEOmXbIAwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168798485636-bo9hnmm7151vt4rqfjsiar7v220m05b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

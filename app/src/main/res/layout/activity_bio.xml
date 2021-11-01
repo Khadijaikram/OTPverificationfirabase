@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BIOActivity">
+
+    <TextView
+
+        style="@style/textview_smal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name" />
+
+    <EditText
+        android:id="@+id/name"
+        style="@style/textview_smal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your name" />
+
+    <TextView
+        style="@style/textview_smal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Phone Number" />
+
+    <EditText
+        android:id="@+id/number"
+        style="@style/textview_smal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your Phone Number " />
+
+    <TextView
+        style="@style/textview_smal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gander" />
+
+    <EditText
+        android:id="@+id/gender"
+        style="@style/textview_smal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="gander" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/createBusiness"
+        style="@style/textview_smal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
